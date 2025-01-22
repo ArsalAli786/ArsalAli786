@@ -15,7 +15,7 @@ I’m passionate about leveraging data and advanced technologies to develop inno
 
 - [LinkedIn](https://www.linkedin.com/in/arsal-ali-311b99221)
 - [Chess.com](https://www.chess.com/member/arsalali420)
-- [Instagram](https://www.instagram.com/arsalali420)
+- [Instagram](https://www.instagram.com/arsalali420/)
 
 ## Languages and Tools
 

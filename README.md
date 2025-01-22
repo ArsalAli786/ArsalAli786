@@ -4,7 +4,7 @@
 
 Software Engineer with a degree from the University of Karachi and additional certifications in Python Programming and Data Science from SMIT.
 
-I’m passionate about leveraging data and advanced technologies to develop innovative solutions and uncover meaningful insights. With strong problem-solving skills, a focus on continuous learning, and a collaborative mindset, I’m eager to contribute to impactful projects in data science, machine learning, artificial intelligence, and related fields. Let’s connect to explore opportunities and create value together.
+I’m passionate about using data and technology to develop innovative solutions and uncover meaningful insights. With strong problem-solving skills, a commitment to learning, and a collaborative approach, I’m eager to contribute to impactful projects in data science, machine learning, and AI. Let’s connect to create value together!
 
 - 🔭 **Current Focus**: Working on Data Science Projects.
 - 🌱 **Learning**: Enhancing my skills in Python, ML/AI and Data Sciences.

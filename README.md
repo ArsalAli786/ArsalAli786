@@ -42,4 +42,4 @@ I’m passionate about using data and technology to develop innovative solutions
 
 ## Streak and Contributions
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Usman600&" alt="ArsalAli786" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ArsalAli786&" alt="ArsalAli786" /></p>

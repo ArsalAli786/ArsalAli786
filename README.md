@@ -39,3 +39,7 @@ I’m passionate about using data and technology to develop innovative solutions
 ## Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArsalAli786&layout=compact&theme=radical)
+
+## Streak and Contributions
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Usman600&" alt="ArsalAli786" /></p>

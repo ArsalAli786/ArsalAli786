@@ -5,9 +5,9 @@
 
 ## About Me
 
-Software Engineer with a degree from the University of Karachi and additional certifications in Python Programming and Data Science from SMIT.
+Software Engineer with a degree from the University of Karachi and certifications in Python Programming and Data Science from SMIT, equipped with strong analytical and problem-solving skills.
 
-I’m passionate about using data and technology to develop innovative solutions and uncover meaningful insights. With strong problem-solving skills, a commitment to learning, and a collaborative approach, I’m eager to contribute to impactful projects in data science, machine learning, and AI. Let’s connect to create value together!
+I follow a structured approach to handling data from various formats, making it processable through cleaning and preprocessing using NumPy and Pandas. I leverage Matplotlib and Seaborn to visualize data effectively, uncovering underlying patterns and behaviors that provide valuable insights. I then apply Feature Engineering principles to enhance data representation before utilizing Scikit-learn to train and optimize appropriate Machine Learning models. Finally, I use pickle and joblib to save trained models for future use and deployment, ensuring efficiency and reusability.
 
 - 🔭 **Current Focus**: Working on Data Science Projects.
 - 🌱 **Learning**: Enhancing my skills in Python, ML/AI and Data Sciences.

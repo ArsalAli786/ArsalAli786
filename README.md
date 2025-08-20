@@ -12,8 +12,8 @@ I have hands-on experience applying Python, NumPy, Pandas, Scikit-learn, TensorF
 I am passionate about building end-to-end AI/ML solutions that not only achieve High Accuracy but are also Efficient, Reusable, and ready for Deployment. I thrive in environments where I can turn raw Data into impactful decisions and am eager to contribute my skills to Data-Driven Organizations.
 
 - 🔭 **Current Focus**: Working on Data Science Projects.
-- 🌱 **Learning**: Enhancing my skills in Python, ML/AI and Data Sciences.
-- 💬 **Ask Me About**: Data Science, Data Analysis, ML/AI and Python Programming.
+- 🌱 **Learning**: Enhancing my skills in Database and APIs.
+- 💬 **Ask Me About**: Programming, Chess, Armwrestling.
 - 📫 **Contact**: arsalali687@gmail.com
 
 ## Connect with me:

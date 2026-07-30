@@ -14,7 +14,7 @@ Whether you're looking to implement Odoo, automate business processes, or integr
 - 🔭 **Current Focus**: Odoo ERP, AI & Business Automation.
 - 🌱 **Learning**: LLMs, AI Integrations & Scalable System Design.
 - 💬 **Ask Me About**: Python, Odoo ERP, AI, Chess, and Armwrestling.
-- - 📫 **Contact**: arsalali687@gmail.com
+- 📫 **Contact**: arsalali687@gmail.com
 
 ## Connect with me:
 

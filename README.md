@@ -5,16 +5,16 @@
 
 ## About Me
 
-I am a Software Engineer and Data Science Enthusiast with a BS in Software Engineering from the University of Karachi and Certifications in Python and Data Science (SMIT). My expertise spans the full Data Pipeline — from Data Cleaning to Visualization, Feature Engineering, and Machine Learning Model Development.
+I help businesses streamline operations, automate workflows, and improve decision-making by implementing Odoo ERP and developing AI-powered solutions tailored to their needs. My expertise includes Odoo customization, Python development, ERP implementation, workflow automation, REST APIs, and AI-driven applications that enhance efficiency and support business growth.
 
-I have hands-on experience applying Python, NumPy, Pandas, Scikit-learn, TensorFlow, Power BI, and other tools to solve real-world problems. My projects include Credit Card Fraud Detection, Sentiment Analysis, Time-Series Forecasting, and Predictive Modeling, where I consistently focused on Accuracy, Efficiency, and Actionable Insights.
+I hold a Bachelor's degree in Software Engineering from the University of Karachi and currently work as an Odoo Consultant at a private software company, where I have gained hands-on experience implementing, customizing, and optimizing Odoo ERP solutions for businesses across different industries. My background in software engineering, combined with practical industry experience, enables me to deliver scalable, reliable, and business-focused solutions.
 
-I am passionate about building end-to-end AI/ML solutions that not only achieve High Accuracy but are also Efficient, Reusable, and ready for Deployment. I thrive in environments where I can turn raw Data into impactful decisions and am eager to contribute my skills to Data-Driven Organizations.
+Whether you're looking to implement Odoo, automate business processes, or integrate AI into your organization, I'd be happy to connect and discuss how I can help.
 
-- 🔭 **Current Focus**: Working on Data Science Projects.
-- 🌱 **Learning**: Enhancing my skills in Database and APIs.
-- 💬 **Ask Me About**: Programming, Chess, Armwrestling.
-- 📫 **Contact**: arsalali687@gmail.com
+- 🔭 **Current Focus**: Odoo ERP, AI & Business Automation.
+- 🌱 **Learning**: LLMs, AI Integrations & Scalable System Design.
+- 💬 **Ask Me About**: Python, Odoo ERP, AI, Chess, and Armwrestling.
+- - 📫 **Contact**: arsalali687@gmail.com
 
 ## Connect with me:
 

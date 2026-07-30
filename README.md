@@ -1,5 +1,5 @@
 <h1 align="center">Salam 👋, I'm Arsal Ali</h1>
-<h3 align="center">A Data Scientist/ML Python Developer</h3>
+<h3 align="center">Odoo ERP Consultant | Python Developer | AI Solutions</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
 
@@ -16,6 +16,20 @@ Whether you're looking to implement Odoo, automate business processes, or integr
 - 💬 **Ask Me About**: Python, Odoo ERP, AI, Chess, and Armwrestling.
 - 📫 **Contact**: arsalali687@gmail.com
 
+## Featured Projects
+
+### 📄 Smart Report Designer (Odoo 18)
+A configurable reporting engine that allows dynamic report customization through reusable components such as logos, watermarks, footer notes, and custom layouts—without modifying report templates.
+
+### 💰 Pakistan Payroll Tax Module
+An advanced payroll tax module for Odoo that calculates monthly income tax using a Year-to-Date (YTD) projection model. Supports salary changes, mid-year joining/leaving, and automatic tax adjustments throughout the fiscal year.
+
+### 📊 Customer Segmentation Dashboard
+A machine learning project that segments customers based on purchasing behavior, providing businesses with actionable insights for targeted marketing and improved decision-making.
+
+### 🤖 AI & ERP Solutions
+Exploring AI-powered business applications, intelligent workflow automation, and LLM integrations within Odoo ERP to improve operational efficiency.
+
 ## Connect with me:
 
 <p align="left">
@@ -26,12 +40,55 @@ Whether you're looking to implement Odoo, automate business processes, or integr
 ## Languages and Tools
 
 <p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="40" height="40"/></a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="40" height="40"/>  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="60" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="40" height="40"/> </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de038172-e903-4951-926c-755878deb0b4" width="40" height="40"/> </a>
+  <!-- Odoo -->
+  <a href="https://www.odoo.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.odoo.com/web/image/website/1/logo/Odoo?unique=1" alt="Odoo" width="40" height="40"/>
+  </a>
+
+  <!-- Python -->
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
+
+  <!-- PostgreSQL -->
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+  </a>
+
+  <!-- Git -->
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  </a>
+
+  <!-- GitHub -->
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  </a>
+
+  <!-- Linux -->
+  <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  </a>
+
+  <!-- HTML -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  </a>
+
+  <!-- CSS -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  </a>
+
+  <!-- JavaScript -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  </a>
+
+  <!-- VS Code -->
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+  </a>
 </p>
 
 ## GitHub Stats

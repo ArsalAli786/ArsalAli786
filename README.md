@@ -1,7 +1,7 @@
 <h1 align="center">Salam 👋, I'm Arsal Ali</h1>
 <h3 align="center">Odoo ERP Consultant | Python Developer | AI Solutions</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
+<img align="right" width="400" src="https://raw.githubusercontent.com/ArsalAli786/ArsalAli786/main/banner.png">
 
 ## About Me
 

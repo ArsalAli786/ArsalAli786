@@ -1,15 +1,19 @@
 <h1 align="center">Salam 👋, I'm Arsal Ali</h1>
-<h3 align="center">Odoo ERP Consultant | Python Developer | AI Solutions</h3>
+<h3 align="center">Odoo Technical Consultant | ERP Development & Customization</h3>
 
 <img align="right" width="400" src="https://raw.githubusercontent.com/ArsalAli786/ArsalAli786/main/banner.png">
 
 ## About Me
 
-I help businesses streamline operations, automate workflows, and improve decision-making by implementing Odoo ERP and developing AI-powered solutions tailored to their needs. My expertise includes Odoo customization, Python development, ERP implementation, workflow automation, REST APIs, and AI-driven applications that enhance efficiency and support business growth.
+I specialize in Odoo ERP development and customization, helping businesses streamline operations, automate workflows, and build solutions that align with their business requirements. My focus is on developing practical, scalable, and maintainable ERP solutions using the Odoo framework and Python.
 
-I hold a Bachelor's degree in Software Engineering from the University of Karachi and currently work as an Odoo Consultant at a private software company, where I have gained hands-on experience implementing, customizing, and optimizing Odoo ERP solutions for businesses across different industries. My background in software engineering, combined with practical industry experience, enables me to deliver scalable, reliable, and business-focused solutions.
+My technical experience includes custom Odoo module development, Python programming, ORM, XML views, QWeb reports, workflow automation, REST API integrations, debugging, and extending existing Odoo functionality. I also work with Git for version control and Docker for deployment and development environments.
 
-Whether you're looking to implement Odoo, automate business processes, or integrate AI into your organization, I'd be happy to connect and discuss how I can help.
+I hold a Bachelor's degree in Software Engineering from the University of Karachi and currently work as an Odoo Consultant at a software company. Through hands-on experience, I have developed a strong understanding of Odoo's technical architecture, business workflows, module customization, and ERP implementation.
+
+I am continuously working to deepen my expertise in the Odoo ecosystem, explore advanced framework capabilities, and deliver ERP solutions that solve real business challenges.
+
+I am always open to connecting with Odoo professionals, developers, consultants, and businesses working within the Odoo ecosystem.
 
 - 🔭 **Current Focus**: Odoo ERP, AI & Business Automation.
 - 🌱 **Learning**: LLMs, AI Integrations & Scalable System Design.
